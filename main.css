@@ -1,0 +1,26 @@
+*{
+  font-family: Verdana,sans-serif;
+}
+body{
+  background-image: url("https://www.xmple.com/wallpaper/blue-grey-gradient-linear-1920x1080-c2-1e90ff-808080-a-150-f-14.svg")
+}
+.subtext{
+  font-size: 9px;
+  margin-bottom: 10px;
+}
+.apertureTitle{
+  color: #a5a5a5;
+  text-align: center;
+  font-style: italic;
+  font-size: 75px
+}
+hr{
+
+}
+nav{
+
+}
+header{
+  background-color: #ded11f;
+  margin: 100px;
+}
