@@ -1,0 +1,28 @@
+*{
+  font-family: Verdana,sans-serif;
+}
+body{
+  background-image: url("https://www.xmple.com/wallpaper/blue-grey-gradient-linear-1920x1080-c2-1e90ff-808080-a-150-f-14.svg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+nav{
+  background-color: 4191e1;
+}
+td{
+  width: 30%;
+  height: 50%;
+}
+img{
+  align-self: center;
+  width: 70%;
+  height: auto;
+}
+a{
+  text-decoration: none;
+  color: white;
+  text-shadow: black 1px 1px
+}
+table, th, td {
+  border: 1px solid black;
+}

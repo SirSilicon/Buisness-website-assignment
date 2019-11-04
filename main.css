@@ -2,7 +2,9 @@
   font-family: Verdana,sans-serif;
 }
 body{
-  background-image: url("https://www.xmple.com/wallpaper/blue-grey-gradient-linear-1920x1080-c2-1e90ff-808080-a-150-f-14.svg")
+  background-image: url("https://www.xmple.com/wallpaper/blue-grey-gradient-linear-1920x1080-c2-1e90ff-808080-a-150-f-14.svg");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 .subtext{
   font-size: 9px;
@@ -12,15 +14,22 @@ body{
   color: #a5a5a5;
   text-align: center;
   font-style: italic;
-  font-size: 75px
-}
-hr{
+  font-size: 75px;
 
+}
+p{
+  text-align: center;
+  margin-left: 28%;
+  margin-right: 28%;
+  font-size: 30px;
 }
 nav{
-
+  background-color: #4191e1;
 }
 header{
   background-color: #ded11f;
-  margin: 100px;
+  margin: 0;
+  margin-top: : 50px;
+  padding: 0;
+  width: 100%;
 }

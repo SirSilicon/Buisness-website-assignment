@@ -1,0 +1,23 @@
+*{
+  font-family: Verdana,sans-serif;
+}
+body{
+  background-image: url("https://www.xmple.com/wallpaper/blue-grey-gradient-linear-1920x1080-c2-1e90ff-808080-a-150-f-14.svg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+img{
+  float: left;
+  width: 45%;
+  height: auto;
+  border: 3px solid black;
+}
+header{
+  background: none;
+  color: white;
+  text-shadow: black 1px 1px
+}
+p{
+  float: right;
+  width: 50%
+}
